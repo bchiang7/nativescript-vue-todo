@@ -2,6 +2,10 @@
 
 > A native application built with NativeScript-Vue
 
+## Set up
+
+Make sure your machine is properly configured with [NativeScript's Full Setup](https://docs.nativescript.org/start/quick-setup#full-setup)
+
 ## Usage
 
 ```bash
